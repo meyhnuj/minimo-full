@@ -1,0 +1,381 @@
+*{
+    margin: o;
+    padding: 0;
+}
+header{width: 90%;margin: auto;overflow: hidden;margin-top: 30px;}
+.logo{
+    
+width: 20%;
+    
+float: left;
+}
+.logo img {
+
+}
+.menu {
+
+width: 60%;
+
+float: right;
+}
+.menu ul {
+
+list-style: none;
+
+/* float: left; */
+
+float: right;
+
+list: none;
+
+styyle: none;
+
+styyle: non;
+
+styyle: no;
+
+styyle: inherit;
+
+styyle: inherit;
+
+styyle: n;
+}
+.menu ul li {
+
+float: right;
+
+right: right;
+
+margin left: 30px;
+
+float: left;
+
+margin-left: 30px;
+
+margin-left: 30px;
+}
+.menu ul li a {
+
+color: #626262;
+
+text-decoration: none;
+
+text-transform: uppercase;
+
+/* transition: u; */
+
+/* text-transform: capitalize; */
+}
+.banner {
+
+width: 90%;
+
+margin: auto;
+}
+.banner img {
+
+width: 100%;
+}
+.photodairy {
+
+width: 80%;
+
+margin: 70px auto;
+}
+.photodairy h5 {
+
+color: #626262;
+
+text-transform: uppercase;
+
+margin-bottom: 20px;
+}
+.photodairy h1 {
+
+color: #626262;
+
+font-size: 40px;
+
+margin-bottom: 10px;
+}
+.photodairy p {
+
+margin-bottom: 20px;
+
+color: #626262;
+
+font-size: 15px;
+
+text-align: justify;
+}
+.photodairy a {
+
+color: #626262;
+
+text-decoration: none;
+
+text-transform: uppercase;
+
+font-size: 14px;
+
+font-weight: 600;
+}
+.lifestyle {
+
+width: 80%;
+
+margin: auto;
+
+display: flex;
+
+flex-wrap: wrap;
+
+justify-content: space-between;
+}
+.item {
+
+width: 45%;
+}
+.item img {
+
+width: 100%;
+}
+.item a {
+
+color: #626262;
+
+text-transform: uppercase;
+
+margin-bottom: 20px;
+
+font-size:  13px;
+
+text-decoration: none;
+
+margin: 30px 0;
+
+display: block;
+}
+.item h1 {
+
+color: #626262;
+
+font-size: 20px;
+
+margin-bottom: 10px;
+
+text-transform: capitalize;
+
+margin: 20px 0;
+}
+.item p {
+
+margin-bottom: 20px;
+
+color: #626262;
+
+font-size: 15px;
+text-align: justify;
+}
+.signup{background-color: #f0f0f0;height: 300px;display: flex;justify-content: center;align-items: center;}
+.content{
+
+width: 320px;
+
+position: relative;
+}
+.content h1{
+    
+color: #626262;
+    
+font-size: 25px;
+    
+margin-bottom: 60px;
+    
+text-transform: capitalize;
+    
+/* margin: 40px 0; */
+}
+.content input{
+    
+border: none;
+    
+background: none;
+    
+border-bottom: 1px solid;
+    
+width: 100%;
+padding: 6px 0px 10px 0px;
+font-size: 10px;
+}
+.content input:focus{
+    outline: none;
+}
+.last {
+
+width: 80%;
+
+margin: auto;
+
+display: flex;
+
+flex-wrap: wrap;
+
+justify-content: space-between;
+}
+.last_1 {
+
+width: 45%;
+
+margin: 30px 0;
+}
+.last_1 img {
+    width: 100%;
+}
+.last_1 a {
+    
+color: #626262;
+    
+text-transform: uppercase;
+    
+margin-bottom: 20px;
+    
+font-size: 13px;
+    
+text-decoration: none;
+    
+margin: 30px 0;
+    
+display: block;
+}
+.last_1 h1 {
+    
+color: #626262;
+    
+font-size: 20px;
+    
+margin-bottom: 10px;
+    
+text-transform: capitalize;
+    
+margin: 20px 0;
+}
+.last_1 p {
+    
+margin-bottom: 20px;
+    
+color: #626262;
+    
+font-size: 15px;
+    
+text-align: justify;
+}
+.button {
+
+height: 400px;
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+}
+.button button {
+    
+border: none;
+    
+background: transparent;
+    
+border: 1px solid #000;
+    
+padding: 20px 30px;
+    
+font-size: 16px;
+    
+font-weight: 400;
+}
+footer{
+
+
+margin: auto;
+
+background-color: #f0f0f0;
+
+padding: 20px 0;
+}
+.footer_wrapper{
+
+/* background-color: #f0f0f0; */
+
+display: flex;
+
+width: 90%;
+
+margin: auto;
+
+justify-content: space-between;
+}
+.terms {
+
+width: 30%;
+}
+.terms ul {
+    
+list-style: none;
+    
+display: flex;
+}
+.terms ul li {
+    
+margin-right: 15px;
+    
+text-transform: capitalize;
+}
+.terms ul li a {
+    
+text-decoration: none;
+    
+color: #000;
+}
+.social_icon{
+
+width: 305;
+
+/* justify-content: end; */
+}
+.social_icon ul{
+    
+list-style: none;
+    
+display: flex;
+    
+justify-content: end;
+}
+.social_icon ul li{
+    
+margin-right: 15px;
+    
+text-transform: capitalize;
+}
+.social_icon ul li a {
+    
+text-decoration: none;
+    
+color: #000;
+}
+.send {
+
+position: absolute;
+
+bottom: 0;
+
+right: 0;
+
+margin-bottom: 5px;
+}
+.send img {
+    
+width: 15px;
+    
+height: 9px;
+}
